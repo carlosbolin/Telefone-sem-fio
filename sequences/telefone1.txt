@@ -1,14 +1,14 @@
-0 /voice 0 /tuuu
-0 /voice 1 /tuuu
-0 /voice 2 /tuuu
-0 /voice 3 /tuuu
-0 /voice 4 /tuuu
-0 /voice 5 /tuuu
+0 /voice 0 /tuuu 1
+0 /voice 1 /tuuu 1
+0 /voice 2 /tuuu 1
+0 /voice 3 /tuuu 1
+0 /voice 4 /tuuu 1
+0 /voice 5 /tuuu 1
 10000 Isto é tipo uma pausa
-0 /voice 0 /quiet
-0 /voice 1 /quiet
-0 /voice 2 /quiet
-0 /voice 3 /quiet
-0 /voice 4 /quiet
-0 /voice 5 /quiet
+0 /voice 0 /tuuu 0
+0 /voice 1 /tuuu 0
+0 /voice 2 /tuuu 0
+0 /voice 3 /tuuu 0
+0 /voice 4 /tuuu 0
+0 /voice 5 /tuuu 0
 0 esta linha pode ter qualquer coisa

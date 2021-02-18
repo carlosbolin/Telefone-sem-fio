@@ -26,7 +26,51 @@ O fofoqueiro conhece as seguintes mensagens:
 * Mudar a cor da tela
 ```
 /voice 0 /canvas paintrect x1 y1 x2 y2 R G B A
-left x, top y, right x, bottom y, red, green, blue, alpha
+
+Este parâmetros são: left x1, top y1, right x2, bottom y2, red R, green G, blue B, alpha A
+```
+
+* Criar ruído / parar ruído
+```
+/noise 1
+/noise 0
+```
+
+* Tocar / parar oscilador (440hz)
+```
+/tuuu 1
+/tuuu 0
+```
+
+* Manipular primeiro buffer de áudio
+```
+/grava 1
+/grava 0
+/tocasample
+
+/tocaemloop
+/paraoloop
+
+/efeito
+
+/tamanhosample
+/velocidadesample
+
+/iniciosample
+```
+
+* Manipular segundo buffer de áudio
+```
+/grava2 1
+/grava2 0
+/tocasample2
+```
+
+* Manipular terceiro buffer de áudio
+```
+/grava3 1
+/grava3 0
+/tocasample3
 ```
 
 # Formato das sequências
