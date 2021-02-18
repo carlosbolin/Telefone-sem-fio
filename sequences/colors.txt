@@ -1,0 +1,4 @@
+1000 /voice 0 /canvas paintrect 0 0 300 500 0 0 0 1
+500 /voice 0 /canvas paintrect 0 0 300 500 1 0 1 1
+100 /voice 0 /canvas paintrect 0 0 300 500 1 1 0.5 1
+2000 /voice 0 /canvas paintrect 0 0 300 500 1 1 0.2 1
