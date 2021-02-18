@@ -1,0 +1,101 @@
+#N canvas 457 199 771 523 12;
+#X obj 20 113 metro 1000;
+#X obj 20 13 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0 1
+;
+#X obj 129 168 delay 500;
+#X text 48 11 <- Inicia e para o metrônomo;
+#X msg 20 188 0;
+#X msg 129 197 1;
+#X obj 20 308 send toNetwork;
+#X obj 61 62 hsl 128 15 2000 500 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 129 139 / 2;
+#X text 200 59 <- Controla o tempo de envio;
+#X text 177 140 <- O delay é sempre metade do tempo;
+#X msg 20 224 list /voice 0 /flash \$1 /voice 1 /flash \$1 /voice 2
+/flash \$1 /voice 3 /flash \$1;
+#X obj 58 35 t b;
+#X obj 627 128 metro 1000;
+#X obj 627 16 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+1;
+#X text 649 14 <- Inicia e para o metrônomo;
+#X obj 614 461 send toNetwork;
+#X obj 669 75 hsl 128 15 2000 500 0 0 empty empty empty -2 -8 0 10
+-262144 -1 -1 0 1;
+#X text 807 74 <- Controla o tempo de envio;
+#X obj 665 50 t b;
+#X floatatom 684 184 0 0 0 0 - - -;
+#X obj 684 159 + 1;
+#X obj 627 160 float;
+#X obj 627 209 hradio 15 1 0 4 empty empty empty 0 -8 0 10 -262144
+-1 -1 1;
+#X obj 627 229 select 0 1 2 3;
+#X msg 614 317 list /voice 0 /flash \$1 /voice 1 /flash \$2 /voice
+2 /flash \$3 /voice 3 /flash \$4;
+#X msg 627 266 1 0 0 0;
+#X obj 627 184 % 4;
+#X msg 697 265 0 1 0 0;
+#X msg 774 268 0 0 1 0;
+#X msg 842 267 0 0 0 1;
+#X text 765 124 Acende de maneira circular;
+#X floatatom 665 97 5 0 0 0 - - -;
+#X obj 19 478 send toNetwork;
+#X text 14 351 Desliga todos os flashes;
+#X msg 19 434 list /voice 0 /flash 0 /voice 1 /flash 0 /voice 2 /flash
+0 /voice 3 /flash 0;
+#X obj 72 139 t b;
+#X floatatom 58 82 5 0 0 0 - - -;
+#X msg 105 265 list /voice 0 /vibrate \$1 /voice 1 /vibrate \$1 /voice
+2 /vibrate \$1 /voice 3 /vibrate \$1;
+#X msg 738 365 list /voice 0 /vibrate \$1 /voice 1 /vibrate \$2 /voice
+2 /vibrate \$3 /voice 3 /vibrate \$4;
+#X obj 18 370 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X msg 18 391 list /voice 0 /vibrate 0 /voice 1 /vibrate 0 /voice 2
+/vibrate 0 /voice 3 /vibrate 0;
+#X connect 0 0 4 0;
+#X connect 0 0 36 0;
+#X connect 1 0 0 0;
+#X connect 1 0 12 0;
+#X connect 2 0 5 0;
+#X connect 4 0 11 0;
+#X connect 4 0 38 0;
+#X connect 5 0 11 0;
+#X connect 5 0 38 0;
+#X connect 7 0 0 1;
+#X connect 7 0 8 0;
+#X connect 7 0 37 0;
+#X connect 8 0 2 0;
+#X connect 11 0 6 0;
+#X connect 12 0 7 0;
+#X connect 13 0 22 0;
+#X connect 14 0 13 0;
+#X connect 14 0 19 0;
+#X connect 17 0 13 1;
+#X connect 17 0 32 0;
+#X connect 19 0 17 0;
+#X connect 21 0 20 0;
+#X connect 21 0 22 1;
+#X connect 22 0 21 0;
+#X connect 22 0 27 0;
+#X connect 23 0 24 0;
+#X connect 24 0 26 0;
+#X connect 24 1 28 0;
+#X connect 24 2 29 0;
+#X connect 24 3 30 0;
+#X connect 25 0 16 0;
+#X connect 26 0 25 0;
+#X connect 26 0 39 0;
+#X connect 27 0 23 0;
+#X connect 28 0 25 0;
+#X connect 28 0 39 0;
+#X connect 29 0 25 0;
+#X connect 29 0 39 0;
+#X connect 30 0 25 0;
+#X connect 30 0 39 0;
+#X connect 35 0 33 0;
+#X connect 36 0 2 0;
+#X connect 38 0 6 0;
+#X connect 39 0 16 0;
+#X connect 40 0 41 0;
+#X connect 40 0 35 0;

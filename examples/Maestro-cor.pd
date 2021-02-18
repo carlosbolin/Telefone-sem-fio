@@ -1,0 +1,35 @@
+#N canvas 579 204 771 523 12;
+#X obj 78 134 metro 1000;
+#X obj 78 22 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1 1
+;
+#X text 100 20 <- Inicia e para o metrônomo;
+#X obj 78 326 send toNetwork;
+#X obj 120 81 hsl 128 15 2000 500 0 0 empty empty empty -2 -8 0 10
+-262144 -1 -1 0 1;
+#X text 258 80 <- Controla o tempo de envio;
+#X obj 116 56 t b;
+#X floatatom 135 190 0 0 0 0 - - -;
+#X obj 135 165 + 1;
+#X obj 78 166 float;
+#X obj 78 215 hradio 15 1 0 4 empty empty empty 0 -8 0 10 -262144 -1
+-1 2;
+#X obj 78 190 % 4;
+#X text 216 130 Acende de maneira circular;
+#X floatatom 116 103 5 0 0 0 - - -;
+#X msg 78 280 list /voice 0 /canvas paintrect 0 0 300 500 \$1 \$1 \$1
+1;
+#X obj 78 251 / 3;
+#X connect 0 0 9 0;
+#X connect 1 0 0 0;
+#X connect 1 0 6 0;
+#X connect 4 0 0 1;
+#X connect 4 0 13 0;
+#X connect 6 0 4 0;
+#X connect 8 0 7 0;
+#X connect 8 0 9 1;
+#X connect 9 0 8 0;
+#X connect 9 0 11 0;
+#X connect 10 0 15 0;
+#X connect 11 0 10 0;
+#X connect 14 0 3 0;
+#X connect 15 0 14 0;
