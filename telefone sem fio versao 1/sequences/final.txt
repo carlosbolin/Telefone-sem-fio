@@ -1,0 +1,13 @@
+0 /voice 0 /paraoloop 1
+0 /voice 0 /efeito 2
+200 /voice 0 /noise 0
+0 /voice 0 /paraoloop 1
+0 /voice 0 /efeito 2
+200 /voice 0 /noise 0
+0 /voice 0 /paraoloop 1
+0 /voice 0 /efeito 2
+200 /voice 0 /noise 0
+0 /voice 0 /tuuu 1
+0 /voice 0 /tuuu 1
+0 /voice 0 /tuuu 1
+0 /voice 0 /tuuu 1

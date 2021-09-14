@@ -1,0 +1,137 @@
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+2000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+100
+100 /voice 0 /vibrate 1
+100 /voice 0 /vibrate 1
+0 /voice 0 /flash 1
+1000 /voice 0 /canvas paintrect 0 0 300 500 0 0 0 1
+500 /voice 0 /canvas paintrect 0 0 300 500 1 0 1 1
+100 /voice 0 /canvas paintrect 0 0 300 500 1 1 0.5 1
+2000 /voice 0 /canvas paintrect 0 0 300 500 1 1 0.2 1
+2000 /voice 0 /flash 0
+2000 /voice 0 /flash 1
+2000 /voice 0 /flash 0
+2000 /voice 0 /flash 1
+2000 /voice 0 /flash 0
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+2000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+100
+100 /voice 0 /vibrate 1
+100 /voice 0 /vibrate 1
+0 /voice 0 /flash 1
+1000 /voice 0 /canvas paintrect 0 0 300 500 0 0 0 1
+500 /voice 0 /canvas paintrect 0 0 300 500 1 0 1 1
+100 /voice 0 /canvas paintrect 0 0 300 500 1 1 0.5 1
+2000 /voice 0 /canvas paintrect 0 0 300 500 1 1 0.2 1
+2000 /voice 0 /flash 0
+2000 /voice 0 /flash 1
+2000 /voice 0 /flash 0
+2000 /voice 0 /flash 1
+2000 /voice 0 /flash 0
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+2000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+100
+100 /voice 0 /vibrate 1
+100 /voice 0 /vibrate 1
+0 /voice 0 /flash 1
+1000 /voice 0 /canvas paintrect 0 0 300 500 0 0 0 1
+500 /voice 0 /canvas paintrect 0 0 300 500 1 0 1 1
+100 /voice 0 /canvas paintrect 0 0 300 500 1 1 0.5 1
+2000 /voice 0 /canvas paintrect 0 0 300 500 1 1 0.2 1
+2000 /voice 0 /flash 0
+2000 /voice 0 /flash 1
+2000 /voice 0 /flash 0
+2000 /voice 0 /flash 1
+2000 /voice 0 /flash 0
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+2000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+1000
+100 /voice 0 /vibrate 1
+100
+100 /voice 0 /vibrate 1
+100 /voice 0 /vibrate 1
+0 /voice 0 /flash 1
+1000 /voice 0 /canvas paintrect 0 0 300 500 0 0 0 1
+500 /voice 0 /canvas paintrect 0 0 300 500 1 0 1 1
+100 /voice 0 /canvas paintrect 0 0 300 500 1 1 0.5 1
+2000 /voice 0 /canvas paintrect 0 0 300 500 1 1 0.2 1
+2000 /voice 0 /flash 0
+2000 /voice 0 /flash 1
+2000 /voice 0 /flash 0
+2000 /voice 0 /flash 1
+2000 /voice 0 /flash 0
+1000 /voice 0 /canvas paintrect 0 0 300 500 1 1 1 1
+1000
+100 /voice 0 /canvas paintrect 0 0 150 200 0 1 0 1
+100 /voice 0 /canvas paintrect 0 0 300 500 1 0 0 1 
+1000
+100 /voice 0 /tuuu 1
+100 /voice 0 /tuuu 0
+1000
+100 /voice 0 /tuuu 1
+100 /voice 0 /tuuu 0
+1000
+100 /voice 0 /tuuu 1
+100 /voice 0 /tuuu 0
+1000
+100 /voice 0 /tuuu 1
+100 /voice 0 /tuuu 0
+1000
+100 /voice 0 /tuuu 1
+100 /voice 0 /tuuu 0
+1000
+100 /voice 0 /tuuu 1
+100 /voice 0 /tuuu 0
+1000
+100 /voice 0 /canvas paintrect 0 0 300 500 0 0 0 1
+500 /voice 0 /tuuu 0

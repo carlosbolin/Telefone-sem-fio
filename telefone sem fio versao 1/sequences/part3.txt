@@ -1,0 +1,93 @@
+0 /voice 0 /paraoloop
+0 /voice 0 /efeito 2
+200 /voice 0 /noise 1
+200 /voice 0 /noise 0
+1000
+1000
+1000
+400 /voice 0 /noise 1
+400 /voice 0 /noise 0
+1000
+1000
+1000
+400 /voice 0 /noise 1
+400 /voice 0 /noise 0
+1000
+1000
+1000
+500 /voice 0 /noise 1
+500 /voice 0 /noise 0
+0 /voice 0 /tocaemloop 1
+1000
+1000
+1000
+1000
+0 /voice 0 /velocidadesample 0.5
+1000
+200 /voice 0 /velocidadesample 0.5
+1000
+0 /voice 0 /velocidadesample 0.5
+500 /voice 0 /noise 1
+500 /voice 0 /noise 0
+500 /voice 0 /noise 1
+500 /voice 0 /noise 0
+500 /voice 0 /noise 1
+500 /voice 0 /noise 0
+1000
+1000
+1000
+1000
+1000
+1000
+300 /voice 0 /velocidadesample 1.5
+1000
+1000
+300 /voice 0 /velocidadesample 1.5
+1000
+1000
+1000
+1000
+1000
+400 /voice 0 /noise 0
+500 /voice 0 /noise 1
+500 /voice 0 /noise 0
+1000
+1000
+300 /voice 0 /velocidadesample 2
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+200 /voice 0 /noise 0
+200 /voice 0 /noise 1
+200 /voice 0 /noise 0
+1000
+300 /voice 0 /velocidadesample 1.5
+1000
+1000
+1000
+1000
+1000
+1000
+300 /voice 0 /velocidadesample 0.5
+1000
+1000
+1000
+1000
+200 /voice 0 /noise 0
+200 /voice 0 /noise 1
+200 /voice 0 /noise 0
+200 /voice 0 /noise 1
+200 /voice 0 /noise 0
+1000
+1000
+1000
+1000
+1000
+

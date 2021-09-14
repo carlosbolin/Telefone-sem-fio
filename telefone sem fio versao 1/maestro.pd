@@ -1,0 +1,32 @@
+#N canvas 543 50 666 672 12;
+#X obj 63 216 textfile;
+#X obj 63 -1 bng 15 250 50 0 empty empty empty 0 -6 0 8 -262144 -1
+-1;
+#X msg 109 118 rewind;
+#X text 88 -4 <---click here first;
+#X text 199 37 you'll need a file in the same path named numbers.txt
+;
+#X obj 109 182 delay;
+#X obj 63 27 t b b b;
+#X obj 175 383 print;
+#X obj 63 255 unpack f s;
+#X obj 151 429 send toNetwork;
+#X obj 151 300 route;
+#X obj 63 300 t f f;
+#X obj 163 255 print EOF;
+#X msg 109 64 read sequences/part1.txt cr;
+#X connect 0 0 8 0;
+#X connect 0 0 10 0;
+#X connect 0 1 12 0;
+#X connect 1 0 6 0;
+#X connect 2 0 0 0;
+#X connect 5 0 0 0;
+#X connect 6 0 0 0;
+#X connect 6 1 2 0;
+#X connect 6 2 13 0;
+#X connect 8 0 5 0;
+#X connect 8 0 11 0;
+#X connect 10 0 9 0;
+#X connect 10 0 7 0;
+#X connect 11 1 10 1;
+#X connect 13 0 0 0;

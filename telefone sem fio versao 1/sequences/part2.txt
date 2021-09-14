@@ -1,0 +1,104 @@
+0 /voice 0 /tuuu 0
+0 /voice 0 /paraoloop 1
+0 /voice 0 /tamanhosample 60
+100 /voice 0 /paraoloop 1
+200 /voice 0 /efeito 2
+200 /voice 0 /grava 0
+500 /voice 0 /grava 1
+1000
+1000
+1000
+1000
+1000
+200 /voice 0 /grava 0
+1000
+300 /voice 0 /tocaemloop 1
+200 /voice 0 /tocaemloop 1
+200 /voice 0 /tocaemloop 1
+1000
+1000
+1000
+100 /voice 0 /vibrate 1
+1000
+1000
+200 /voice 0 /tocaemloop 1
+200 /voice 0 /tocaemloop 1
+1000
+1000
+100 /voice 0 /vibrate 1
+100 /voice 0 /vibrate 1
+100 /voice 0 /vibrate 1
+1000
+200 /voice 0 /tocaemloop 1
+200 voice 0 /efeito 1
+1000
+1000
+1000
+200 voice 0 /efeito 1
+1000
+200 voice 0 /efeito 1
+100 /voice 0 /vibrate 1
+100 /voice 0 /vibrate 1
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+200 /voice 0 /efeito 0
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+100 /voice 0 /vibrate 1
+1000
+1000
+1000
+100 /voice 0 /vibrate 1
+1000
+1000
+1000
+1000
+1000
+0 /voice 0 /paraoloop 1
+100 /voice 0 /vibrate 1
+100 /voice 0 /vibrate 1
+100 /voice 0 /vibrate 1
